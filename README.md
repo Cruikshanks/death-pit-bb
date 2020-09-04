@@ -22,7 +22,7 @@ Around the same time I created a version of the game written in DirectX 8 and C+
 
 - Blitz3D
 
-I was able to get the code up and running again by registering on [](https://www.blitzcoder.org/) and then [downloading a copy](https://www.blitzcoder.org/forum/downloads.php).
+I was able to get the code up and running again by registering on [Blitzcoder](https://www.blitzcoder.org/) and then [downloading a copy](https://www.blitzcoder.org/forum/downloads.php).
 
 ## User Guide
 
